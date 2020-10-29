@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CloudCamera</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_image_preview">FullscreenActivity</string>
+    <string name="title_activity_main">FullscreenActivity</string>
+    <string name="title_activity_permissions">FullscreenActivity</string>
+</resources>

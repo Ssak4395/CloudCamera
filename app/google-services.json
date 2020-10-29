@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "263872323469",
+    "firebase_url": "https://cloudcamera-35a4f.firebaseio.com",
+    "project_id": "cloudcamera-35a4f",
+    "storage_bucket": "cloudcamera-35a4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263872323469:android:c58c4fdf5fc0381353a7c4",
+        "android_client_info": {
+          "package_name": "com.assignment2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263872323469-pt4he7imrmu51qrv67qu9pfiaap7sgr9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.assignment2",
+            "certificate_hash": "6318efd25c232cbe30f35c88465025b9029a0694"
+          }
+        },
+        {
+          "client_id": "263872323469-q85bi0nukqn4rflqr37mb3c2k7bckjjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7Q66Rx0GWtFI3ddnv_vEl3oufpSxcmfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263872323469-q85bi0nukqn4rflqr37mb3c2k7bckjjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
